@@ -1,0 +1,5 @@
+homeworks_done = 12
+hours_spent = 1.5
+name_of_lesson = 'Python'
+averege_time = (hours_spent/homeworks_done)
+print('Курс: ',name_of_lesson,', всего задач:',homeworks_done,'затрачено часов:',hours_spent,'среднее время выполнения ',averege_time) #Курс: Python, всего задач:12, затрачено часов: 1.5, среднее время выполнения 0.125 часа.
