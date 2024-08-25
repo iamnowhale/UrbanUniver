@@ -2,7 +2,7 @@ name = 'Nikita'
 print('Name: ',name)
 age = 29
 print('Age: ',age)
-new_age = 29 + 1
+new_age = age + 1
 print('New age: ',new_age)
-is_student = age == 29
+is_student = True
 print('Is student: ', is_student)
