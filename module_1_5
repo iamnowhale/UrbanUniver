@@ -1,0 +1,6 @@
+immutable_var = 1, 2, 3.1, 'string'
+print('Immutable tuple:', immutable_var)
+#immutable_var[0] = 2 #объект типа tuple является неизменяемым, но может содержать внутри себя изменяемый объект (например, список)
+mutable_list = ['tea', 'coffee', 'juice']
+mutable_list[0] = 'cocktail'
+print('Mutable list:', mutable_list)
